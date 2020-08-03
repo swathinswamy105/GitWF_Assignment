@@ -1,0 +1,6 @@
+#!Feaature code begins
+
+Func featurecode1
+{
+##My feature code 1
+}
